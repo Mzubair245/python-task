@@ -1,0 +1,61 @@
+
+              # python tasks
+              #string built in functions.
+
+#print("hell o python")
+# var="Zubair"
+# print(var)
+# print(var.upper())
+# print(var.lower())
+# print(var.find("3"))
+# print(var.replace("z","Z"))
+            #int function
+# var2=40
+# var2+=var2
+# print(var2)
+#list
+#list1=[2,4,5,"zubair",0.5]
+# l2=[7,8,9]
+# print(list1)
+# print(list1[1:4])
+# print(2*list1)
+# print(list1+l2)
+# list1[1]=0
+# print(list1)
+           #Tuple
+# tuple=(1,2,3,4,"zubair",0.5,'A')
+# tup=(5,6,7,8)
+# print(tuple)
+# print(type(tuple))
+# print(tuple[2:4])
+# print(tuple[2:6])
+# print(tuple+tup)
+# print(2*tuple)
+# tuple[0]=2
+# print(tuple)
+
+            #Dictionay
+# dict={'name':"Zubair",'age':24,'gender':"male"}
+# dict2={}
+# dict2[1]="this is one"
+# dict2['two']="this is two"
+# print(dict2[1])
+# print(dict)
+# print(dict2)
+# print(dict.keys())
+# print(dict.values())
+# print(type(dict))
+
+     #identity op
+
+# a="zubair"
+# print("b" in a)
+# print("q" not in a)
+
+# import time
+# tim=time.localtime(time.time())
+# print(tim)
+
+# import calendar
+# cl=calendar.month(2003,2)
+# print(cl)
